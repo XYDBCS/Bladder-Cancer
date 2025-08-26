@@ -1,0 +1,3 @@
+The datasets presented herein were utilized in our paper titled “Unraveling bladder cancer-related circRNA biomarkers: a hybrid model combining deep learning and statistics”. If you employ these datasets in your work, please cite this paper accordingly.
+
+Specifically, the file “bladder_normal_19_circex2.csv” contains circRNA expression data from 19 normal individuals, whereas “bladder_tumor_414_circex2.csv” includes circRNA expression data from 414 bladder cancer samples. Additionally, “bladder_tumor_patientstage.xls” provides staging information for all bladder cancer patients in the study, and “invasive_info.xlsx” documents the invasive status of these same bladder cancer patients.
